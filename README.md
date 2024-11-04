@@ -1,5 +1,5 @@
 # YumJar App
-Video Link: https://youtu.be/uKOGcXNEi7w
+Video Link: [https://youtu.be/uKOGcXNEi7w](https://youtu.be/uKOGcXNEi7w)
 **YumJar** is a mobile application designed for food lovers to explore and create a variety of recipes. The app helps users to categorize recipes, search by ingredients, and manage their favorite meals. It features a user-friendly interface with multiple options to enhance the cooking experience.
 
 ## Versions
