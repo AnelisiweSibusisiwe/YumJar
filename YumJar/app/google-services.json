@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982390379028",
+    "project_id": "yumjar-8fd11",
+    "storage_bucket": "yumjar-8fd11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982390379028:android:3be67a4b5ade02b9eacd01",
+        "android_client_info": {
+          "package_name": "com.example.yumjar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsPhieU2FhfWhc9n_NNa_QpbZjzgVN8D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

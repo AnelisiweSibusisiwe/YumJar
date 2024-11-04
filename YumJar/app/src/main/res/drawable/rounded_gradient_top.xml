@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <!-- Add rounded corners only to the top -->
+            <corners android:topLeftRadius="0dp"
+                android:topRightRadius="0dp"
+                android:bottomLeftRadius="30dp"
+                android:bottomRightRadius="30dp"/>
+
+            <!-- Add the gradient to the shape -->
+            <gradient
+                android:type="linear"
+                android:angle="100"
+                android:startColor="#FFA500"
+                android:endColor="#FFD700" /> <!-- End with yellow -->
+        </shape>
+    </item>
+</layer-list>
